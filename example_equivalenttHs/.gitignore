@@ -1,0 +1,13 @@
+# Tool caches
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.complexipy_cache/
+*.pyc
+
+# Generated data/outputs (re-creatable by running the numbered scripts)
+00_fetch_spectra/*.nc
+01_compute_ewh/*.nc
+02_plot_contours/*.png
+logs/*.log

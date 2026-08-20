@@ -1,0 +1,7 @@
+[MASTER]
+disable=
+    wrong-import-position,
+    ungrouped-imports,
+    broad-exception-caught
+
+max-line-length=100

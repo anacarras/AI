@@ -1,0 +1,21 @@
+name: kivm_swell
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12.9
+  - xarray=2026.7.0
+  - netcdf4=1.7.4
+  - numpy=2.5.2
+  - matplotlib=3.11.1
+  - cartopy=0.25.0
+  - requests=2.34.2
+  - loguru=0.7.3
+  - tqdm=4.70.0
+  - pytest=9.1.1
+  - mypy=2.3.1
+  - ruff=0.16.3
+  - pylint=4.0.7
+  - flake8=7.3.0
+  - codespell=2.4.3
+  - complexipy=7.0.1
